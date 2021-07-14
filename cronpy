@@ -1,0 +1,1 @@
+*/30 * * * * root /usr/local/bin/python /app/queue_scan_user_friends.py >> /var/log/task.log 2>&1
